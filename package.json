@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/highmountaintea/famous-quotes-downstream/issues"
   },
-  "homepage": "https://github.com/highmountaintea/famous-quotes-downstream#readme"
+  "homepage": "https://github.com/highmountaintea/famous-quotes-downstream#readme",
+  "dependencies": {
+    "@idgen/famous-quotes": "^0.1.1"
+  }
 }
