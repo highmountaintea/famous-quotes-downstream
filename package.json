@@ -1,0 +1,19 @@
+{
+  "name": "@idgen/famous-quotes-downstream",
+  "version": "0.1.0",
+  "description": "an npm package that uses famous-quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highmountaintea/famous-quotes-downstream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highmountaintea/famous-quotes-downstream/issues"
+  },
+  "homepage": "https://github.com/highmountaintea/famous-quotes-downstream#readme"
+}
