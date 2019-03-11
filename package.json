@@ -1,6 +1,6 @@
 {
   "name": "@idgen/famous-quotes-downstream",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "an npm package that uses famous-quotes",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/highmountaintea/famous-quotes-downstream#readme",
   "dependencies": {
-    "@idgen/famous-quotes": "^0.1.1"
+    "@idgen/famous-quotes": "^0.1.2"
   }
 }
